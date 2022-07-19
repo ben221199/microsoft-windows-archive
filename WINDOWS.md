@@ -11,6 +11,8 @@
 
 ### Disk 1 of 4 - Setup Disk
 
+#### /
+
 | File name | File extension | MD5 | SHA-1 |
 | - | - | - | - |
 | `SETUP   ` | N/A (Volume label) | N/A | N/A |
@@ -35,6 +37,8 @@
 | `LOFONTS ` | `EXE` | 15B8DECC6B1CD662F9780480D66FF568 | 6730F047D42A379FE02F4ADFAD3815252C52E6CB |
 
 ### Disk 2 of 4 - Build Disk
+
+#### /
 
 | File name | File extension | MD5 | SHA-1 |
 | - | - | - | - |
@@ -71,5 +75,28 @@
 | `åETUP   ` | `SCR` | N/A | N/A |
 
 ### Disk 3 of 4 - Utilities Disk
+
+#### /
+
+| File name | File extension | MD5 | SHA-1 |
+| - | - | - | - |
+| `UTILITY ` | N/A (Volume label) | N/A | N/A |
+| `PIF     ` | N/A (Folder) | N/A | N/A |
+| `EPSON   ` | `EXE` |
+| `NEC3550 ` | `EXE` |
+| `åLOTTERS` | `EXE` | N/A | N/A |
+| `IBMGRX  ` | `EXE` |
+| `OKI92   ` | `EXE` |
+| `CITOH   ` | `EXE` |
+| `COUR    ` | `EXE` |
+| `HELV    ` | `EXE` |
+| `RAMDRIVE` | `SYS` |
+| `å82B1C4B` | N/A | N/A | N/A |
+| `å82B1D2F` | N/A | N/A | N/A |
+
+#### /PIF/
+
+| File name | File extension | MD5 | SHA-1 |
+| - | - | - | - |
 
 ### Disk 4 of 4 - Desktop Applications Disk
