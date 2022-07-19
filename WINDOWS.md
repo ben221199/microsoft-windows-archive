@@ -132,3 +132,25 @@
 | `WP      ` | `PIF` | | |
 
 ### Disk 4 of 4 - Desktop Applications Disk
+
+#### /
+
+| File name | File extension | MD5 | SHA-1 |
+| - | - | - | - |
+| `APPS    ` | N/A (Volume label) | N/A | N/A |
+| `CALC    ` | `EXE` | | |
+| `CALENDAR` | `EXE` | | |
+| `CARDFILE` | `EXE` | | |
+| `CLIPBRD ` | `EXE` | | |
+| `CLOCK   ` | `EXE` | | |
+| `CONTROL ` | `EXE` | | |
+| `NOTEPAD ` | `EXE` | | |
+| `PAINT   ` | `EXE` | | |
+| `PIFEDIT ` | `EXE` | | |
+| `REVERSI ` | `EXE` | | |
+| `SPOOLER ` | `EXE` | | |
+| `TERMINAL` | `EXE` | | |
+| `ABC     ` | `TXT` | | |
+| `DOTHIS  ` | `TXT` | | |
+| `åMSP0176` | `TMP` | N/A | N/A |
+| `åMSP01FE` | `TMP` | N/A | N/A |
