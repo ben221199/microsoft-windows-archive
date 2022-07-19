@@ -98,5 +98,37 @@
 
 | File name | File extension | MD5 | SHA-1 |
 | - | - | - | - |
+| `.       ` | N/A | N/A | N/A |
+| `..      ` | N/A | N/A | N/A |
+| `123     ` | `PIF` | | |
+| `ACCESS  ` | `PIF` | | |
+| `BASCOM  ` | `PIF` | | |
+| `BASIC   ` | `PIF` | | |
+| `BASICA  ` | `PIF` | | |
+| `BASRUN  ` | `PIF` | | |
+| `CHART   ` | `PIF` | | |
+| `CONVERT ` | `PIF` | | |
+| `CONVERTD` | `PIF` | | |
+| `DBASE   ` | `PIF` | | |
+| `DW3PG   ` | `PIF` | | |
+| `FILE    ` | `PIF` | | |
+| `FW      ` | `PIF` | | |
+| `FWC     ` | `PIF` | | |
+| `FWT     ` | `PIF` | | |
+| `GRAPH   ` | `PIF` | | |
+| `INSTALL ` | `PIF` | | |
+| `LOTUS   ` | `PIF` | | |
+| `MP      ` | `PIF` | | |
+| `MP40    ` | `PIF` | | |
+| `MP80    ` | `PIF` | | |
+| `PE      ` | `PIF` | | |
+| `PROEDIT ` | `PIF` | | |
+| `REPORT  ` | `PIF` | | |
+| `RG      ` | `PIF` | | |
+| `SC      ` | `PIF` | | |
+| `SCOM    ` | `PIF` | | |
+| `TK      ` | `PIF` | | |
+| `WORD    ` | `PIF` | | |
+| `WP      ` | `PIF` | | |
 
 ### Disk 4 of 4 - Desktop Applications Disk
